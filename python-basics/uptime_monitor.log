@@ -1,0 +1,13 @@
+2026-03-12 15:24:12,080 - http://www.example.com/nonexistentpage -> 404
+2026-03-12 15:24:12,080 - Client Error at http://www.example.com/nonexistentpage
+2026-03-12 15:24:32,162 - Connection error for http://httpstat.us/404
+2026-03-12 15:24:52,241 - Connection error for http://httpstat.us/500
+2026-03-12 15:25:12,880 - https://www.google.com/ -> 200
+2026-03-12 15:25:24,957 - http://www.example.com/nonexistentpage -> 404
+2026-03-12 15:25:24,957 - Client Error at http://www.example.com/nonexistentpage
+2026-03-12 15:26:05,037 - Connection error for http://httpstat.us/404
+2026-03-12 15:26:45,135 - Connection error for http://httpstat.us/500
+2026-03-12 15:27:25,681 - https://www.google.com/ -> 200
+2026-03-12 15:27:37,925 - http://www.example.com/nonexistentpage -> 404
+2026-03-12 15:27:37,925 - Client Error at http://www.example.com/nonexistentpage
+2026-03-12 15:28:38,322 - Connection error for http://httpstat.us/404

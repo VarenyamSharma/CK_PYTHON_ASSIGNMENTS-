@@ -1,0 +1,6 @@
+This is a duplicate file test.
+Python is used for automation.
+This file contains multiple lines.
+Duplicate file finder should detect this.
+Testing checksum comparison.
+End of file.
