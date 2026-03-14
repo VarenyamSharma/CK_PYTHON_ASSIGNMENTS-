@@ -1,0 +1,5 @@
+SGName,Port,AllowedIP
+ssm-cloudront-MySecurityGroup-1aMk2j5YVst2,22,0.0.0.0/0
+launch-wizard-1,22,0.0.0.0/0
+three-tier-app-ALBSG-A4pSxe2unmbB,80,0.0.0.0/0
+launch-wizard-2,22,0.0.0.0/0
